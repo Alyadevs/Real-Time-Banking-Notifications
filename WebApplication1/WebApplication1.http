@@ -1,0 +1,5 @@
+﻿@WebApplication1_HostAddress = http://localhost:5000
+
+POST {{WebApplication1_HostAddress}}/api/Authentification/
+Accept: application/json
+###

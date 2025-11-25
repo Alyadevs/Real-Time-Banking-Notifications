@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "WebApplication1.Controllers.AuthentificationController",
+    "Method": "Login",
+    "RelativePath": "api/Authentification",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "credentials",
+        "Type": "WebApplication1.Models.Entites.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.CompteController",
+    "Method": "GetAll",
+    "RelativePath": "api/Compte",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.CompteController",
+    "Method": "Add",
+    "RelativePath": "api/Compte",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "compte",
+        "Type": "WebApplication1.Models.Entites.Compte",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.OperationController",
+    "Method": "PostOperation",
+    "RelativePath": "api/Operation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "op",
+        "Type": "WebApplication1.Models.Entites.Operation",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
