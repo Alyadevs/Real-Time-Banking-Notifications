@@ -1,18 +1,12 @@
 🏦 Real-Time Banking Notifications
 
-WebSocket + ASP.NET Core + HTML/JS
-
-<p align="center"> <img src="https://img.shields.io/badge/Backend-C%23_.NET_8-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Frontend-HTML%2FJS-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/WebSocket-Real_Time-00d26a?style=for-the-badge" /> <img src="https://img.shields.io/badge/Status-Working_Successfully-brightgreen?style=for-the-badge" /> </p> <p align="center"> <img src="https://img.shields.io/github/license/alyaproject/banking-notification?style=flat-square" /> <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square" /> </p>
-📸 Project Preview
 🔐 Login Page
 
 <img width="474" height="397" alt="Capture d&#39;écran 2025-11-25 122718" src="https://github.com/user-attachments/assets/2b647d66-921e-4a47-a0a9-3632a7035189" />
 
 Login → Authentication API → Token → WebSocket Connection
 
-🔔 Real-Time Notifications
 
-(Dynamic and animated display: negative balance alerts)
 
 🚀 Project Description
 
@@ -40,6 +34,7 @@ ws://localhost:5298/ws?token=xxxx
 Receive banking notifications in real time
 
 📂 Project Structure
+
 <img width="461" height="522" alt="image" src="https://github.com/user-attachments/assets/a39df36c-9fb8-407d-a5b6-1a39128aacd6" />
 <img width="367" height="172" alt="image" src="https://github.com/user-attachments/assets/19f42d9b-a1d1-428a-9557-e18fd04f11ac" />
 
@@ -118,3 +113,6 @@ POST http://localhost:5298/api/Operation
 
 Alya Ichaoui
 Project carried out as part of the Master IoT program.
+WebSocket + ASP.NET Core + HTML/JS
+
+<p align="center"> <img src="https://img.shields.io/badge/Backend-C%23_.NET_8-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Frontend-HTML%2FJS-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/WebSocket-Real_Time-00d26a?style=for-the-badge" /> <img src="https://img.shields.io/badge/Status-Working_Successfully-brightgreen?style=for-the-badge" /> </p> <p align="center"> <img src="https://img.shields.io/github/license/alyaproject/banking-notification?style=flat-square" /> <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square" /> </p>
