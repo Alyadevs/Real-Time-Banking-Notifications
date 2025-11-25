@@ -2,7 +2,10 @@
 
 🔐 Login Page
 
+
 <img width="474" height="397" alt="Capture d&#39;écran 2025-11-25 122718" src="https://github.com/user-attachments/assets/2b647d66-921e-4a47-a0a9-3632a7035189" />
+
+
 
 Login → Authentication API → Token → WebSocket Connection
 
@@ -35,8 +38,12 @@ Receive banking notifications in real time
 
 📂 Project Structure
 
+
 <img width="461" height="522" alt="image" src="https://github.com/user-attachments/assets/a39df36c-9fb8-407d-a5b6-1a39128aacd6" />
 <img width="367" height="172" alt="image" src="https://github.com/user-attachments/assets/19f42d9b-a1d1-428a-9557-e18fd04f11ac" />
+
+
+
 
 ⚙️ Technologies Used
 Technology	Role
@@ -91,6 +98,8 @@ compte.Solde += op.Type == TypeOperation.Credit ? op.Montant : -op.Montant;
 🔔 Notification displayed
 👤 User name
 📉 Negative balance detected
+
+
 <img width="466" height="462" alt="Capture d&#39;écran 2025-11-25 143215" src="https://github.com/user-attachments/assets/fa86f10c-6954-4195-8546-1e5246fc0ef7" />
 <img width="462" height="413" alt="Capture d&#39;écran 2025-11-25 143235" src="https://github.com/user-attachments/assets/a6494daa-572d-42af-a5bc-6d8f09bbd87a" />
 <img width="474" height="397" alt="Capture d&#39;écran 2025-11-25 122718" src="https://github.com/user-attachments/assets/0b885c2e-dc1f-4f82-9eef-a4a6909c71a3" />
